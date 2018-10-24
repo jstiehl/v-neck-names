@@ -37,6 +37,9 @@ export default {
   methods: {
     toggleInput(e) {
       this.showName = !this.showName
+      if(!this.showName) {
+        this.companyName = ""
+      }
     }
   }
 }
