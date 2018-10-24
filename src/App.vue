@@ -35,7 +35,7 @@ export default {
     }
   },
   methods: {
-    toggleInput(e) {
+    toggleInput() {
       this.showName = !this.showName
       if(!this.showName) {
         this.companyName = ""

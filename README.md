@@ -22,5 +22,5 @@ yarn run test
 
 ### Lints and fixes files
 ```
-yarn run lintt est
+yarn run lint
 ```
