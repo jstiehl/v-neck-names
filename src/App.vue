@@ -7,7 +7,7 @@
       </div>
       <HelloWorld msg="LLC"/>
     </div>
-    <div v-else="showName">
+    <div v-else>
       <label>LLC Name</label><br />
       <input v-model="companyName" type="text" placeholder="Enter desired LLC Name..." /><br />
       <button @click.prevent="toggleInput">Generate LLC Name</button>
