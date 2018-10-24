@@ -1,4 +1,5 @@
-# jds-app
+# V-neck Name Generator
+Generate your unique LLC Name with this state of the art name generator built using vue.js
 
 ## Project setup
 ```
